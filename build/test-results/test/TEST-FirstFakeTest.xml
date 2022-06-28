@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FirstFakeTest" tests="29" skipped="0" failures="27" errors="0" timestamp="2022-06-27T20:51:41" hostname="LP-RU00411" time="0.036">
+<testsuite name="FirstFakeTest" tests="30" skipped="0" failures="27" errors="0" timestamp="2022-06-28T17:05:44" hostname="LP-RU00411" time="0.034">
   <properties/>
-  <testcase name="sum_100()" classname="FirstFakeTest" time="0.011">
+  <testcase name="sum_100()" classname="FirstFakeTest" time="0.014">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;100&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;100&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -301,7 +301,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_104()" classname="FirstFakeTest" time="0.001">
+  <testcase name="sum_104()" classname="FirstFakeTest" time="0.0">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;104&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;104&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -401,7 +401,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_105()" classname="FirstFakeTest" time="0.001">
+  <testcase name="sum_105()" classname="FirstFakeTest" time="0.0">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;105&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;105&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -501,7 +501,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_106()" classname="FirstFakeTest" time="0.0">
+  <testcase name="sum_106()" classname="FirstFakeTest" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;106&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;106&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -601,7 +601,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_107()" classname="FirstFakeTest" time="0.0">
+  <testcase name="sum_107()" classname="FirstFakeTest" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;107&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;107&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -701,7 +701,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_108()" classname="FirstFakeTest" time="0.001">
+  <testcase name="sum_108()" classname="FirstFakeTest" time="0.0">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;108&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;108&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -801,7 +801,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_109()" classname="FirstFakeTest" time="0.0">
+  <testcase name="sum_109()" classname="FirstFakeTest" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;109&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;109&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -1001,7 +1001,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_112()" classname="FirstFakeTest" time="0.001">
+  <testcase name="sum_112()" classname="FirstFakeTest" time="0.0">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -1601,7 +1601,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_118()" classname="FirstFakeTest" time="0.0">
+  <testcase name="sum_118()" classname="FirstFakeTest" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -1701,7 +1701,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_119()" classname="FirstFakeTest" time="0.001">
+  <testcase name="sum_119()" classname="FirstFakeTest" time="0.0">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -1801,7 +1801,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_120()" classname="FirstFakeTest" time="0.001">
+  <testcase name="sum_120()" classname="FirstFakeTest" time="0.0">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -1901,7 +1901,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_121()" classname="FirstFakeTest" time="0.0">
+  <testcase name="sum_121()" classname="FirstFakeTest" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -2301,7 +2301,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_125()" classname="FirstFakeTest" time="0.0">
+  <testcase name="sum_125()" classname="FirstFakeTest" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -2501,7 +2501,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_127()" classname="FirstFakeTest" time="0.001">
+  <testcase name="sum_127()" classname="FirstFakeTest" time="0.0">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;101&gt; but was: &lt;10&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
@@ -2701,7 +2701,8 @@
 	at java.base/java.lang.Thread.run(Thread.java:832)
 </failure>
   </testcase>
-  <testcase name="sum_10()" classname="FirstFakeTest" time="0.001"/>
+  <testcase name="sum_129()" classname="FirstFakeTest" time="0.0"/>
+  <testcase name="sum_10()" classname="FirstFakeTest" time="0.0"/>
   <testcase name="sum_12()" classname="FirstFakeTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
