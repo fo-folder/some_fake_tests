@@ -9,7 +9,7 @@ class FirstFakeTest {
 
     @Test
     fun sum_12() {
-        Thread.sleep(10000)
+        Thread.sleep(10000000000)
         val expected = 12
         Assertions.assertEquals(expected, testSample.sum(6, 6))
     }
